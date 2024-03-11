@@ -1,0 +1,31 @@
+Terminal
+The command that is used to list all files and directories in the current directory is ls
+The purpose of the `cd` command in the terminal is that to exixt from the current directory
+The different bewteen ls and ll is that ls is used to list all files and directories in the current directory and ll is usent to shows the time and when the files was made inside that directory
+Done.
+
+Arduino Basics (15 Marks)
+a.An arduino microcontroller is a Hardware platform used to design and create electronic project
+Its main component are Iput and Output pin,Power supply,Reset button,LED and USB port.
+
+b.the function of setup() is like preparing before running the program like inputing the pinmode that we had setup on our board yo run the program 
+and function of loop() is a main task where it makes our program run repeatly until we plug out our arduino board
+
+c.Digital pin are used to make the program  on and off like making  LED light turn on and off .
+analog pin are used to masure voltage 
+
+Electronic Components (15 Marks)
+a.Resistor is a component which control the flow of current and its function are that it helps to flow the current to different boards.
+
+b.Jumper wire is a wire which is used to connect two point in a circuit
+
+c.LED is light up when we pass electricity through it and the the electricity passes when we connect digital pin and analog pin on a board with a recuired code.
+
+Programming Concepts (10 Marks)
+a.function of loop() is a main task where it makes our program run repeatly until we plug out our arduino board
+example of loop structure
+for i in range(1, 6):
+    print(i)
+
+b.function make our code simple and eaiser to understand and it can reused multiple times
+
